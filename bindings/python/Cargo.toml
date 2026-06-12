@@ -15,4 +15,4 @@ crate-type = ["cdylib"]
 
 [dependencies]
 sentencex = { path = "../../" }
-pyo3 = { version = "0.28", features = ["extension-module"] }
+pyo3 = { version = "0.29", features = ["extension-module"] }
